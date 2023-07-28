@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DODO665
+- 👀 I’m interested in HTML, CSS and JS
+- 🌱 I’m currently learning JS
